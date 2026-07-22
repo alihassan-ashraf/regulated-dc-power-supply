@@ -37,7 +37,6 @@ The objective was to design and fabricate a reliable regulated DC power supply c
 | Resistors | Current limiting and biasing |
 | LED Indicator | Output indication |
 | PCB | Hardware implementation |
-| Fuse | Circuit protection |
 
 ---
 
