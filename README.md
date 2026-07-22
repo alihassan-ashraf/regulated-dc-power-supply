@@ -167,12 +167,15 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Ali Hassan Ashraf**
+- **Ali Hassan Ashraf**
+- **Ayesha Ikram**
+- **Syed Irtaza Haider**
+- **Nimza Saleem**
 
-BS Intelligent Systems & Robotics  
-The Islamia University of Bahawalpur
+**Department:** Information and Communication Engineering 
+**University:** The Islamia University of Bahawalpur (IUB)
 
 📧 ali.hassan.ashraff@gmail.com
 
