@@ -98,7 +98,8 @@ The completed hardware was tested for:
 
 ### PCB Layout
 
-*(Add image here)*
+<img width="899" height="1599" alt="PCB_Layout" src="https://github.com/user-attachments/assets/94a31b69-3530-497f-be9b-ec16e89b2380" />
+
 
 ---
 
