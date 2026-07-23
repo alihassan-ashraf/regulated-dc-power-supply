@@ -91,7 +91,8 @@ The completed hardware was tested for:
 
 ### Circuit Diagram
 
-*(Add image here)*
+<img width="642" height="276" alt="circuit" src="https://github.com/user-attachments/assets/01d8d8d2-4d83-4020-b140-77d49508a283" />
+
 
 ---
 
