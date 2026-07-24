@@ -91,15 +91,13 @@ The completed hardware was tested for:
 
 ### Circuit Diagram
 
-
-
+<img width="739" height="415" alt="Power_Supply_Diagram" src="https://github.com/user-attachments/assets/f4704e6e-888b-49fc-9948-724596b41ac4" />
 
 ---
 
 ### PCB Layout
 
 <img width="899" height="1599" alt="PCB_Layout" src="https://github.com/user-attachments/assets/94a31b69-3530-497f-be9b-ec16e89b2380" />
-
 
 ---
 
