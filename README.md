@@ -126,8 +126,9 @@ regulated-dc-power-supply/
 │
 ├── README.md
 ├── LICENSE
-├── calculations/
-├── circuit/
+├── docs
+│   └── Power_Supply_Calculations.pdf
+├── circuit
 ├── hardware/
 ├── testing/
 ├── media/
