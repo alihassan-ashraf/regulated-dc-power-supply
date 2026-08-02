@@ -88,7 +88,7 @@ The completed hardware was tested for:
 ---
 
 ## 📷 Project Gallery
-
+ 
 ### Circuit Diagram
 
 <img width="739" height="415" alt="Power_Supply_Diagram" src="https://github.com/user-attachments/assets/f4704e6e-888b-49fc-9948-724596b41ac4" />
