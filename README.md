@@ -24,7 +24,7 @@ The objective was to design and fabricate a reliable regulated DC power supply c
 - ✔ Stable 12V DC output
 - ✔ Hardware testing and validation
 
----
+---      
 
 ## ⚙ Components Used
 
