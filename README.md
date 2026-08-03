@@ -22,9 +22,9 @@ The objective was to design and fabricate a reliable regulated DC power supply c
 - ✔ Zener diode voltage regulation
 - ✔ Custom PCB fabrication
 - ✔ Stable 12V DC output
-- ✔ Hardware testing and validation
+- ✔ Hardware testing and validation  
 
----      
+---        
 
 ## ⚙ Components Used
 
