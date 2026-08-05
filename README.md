@@ -6,7 +6,7 @@ The project converts AC mains voltage into a stable regulated 12V DC output usin
 
 ---  
 
-## 📌 Project Overview  
+## 📌 Project Overview    
   
 This project was developed as part of the Electronic Devices and Circuits course.   
 
