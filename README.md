@@ -4,7 +4,7 @@ A complete analog electronics project involving the design, PCB fabrication, har
 
 The project converts AC mains voltage into a stable regulated 12V DC output using a step-down transformer, bridge rectifier, capacitor filter, and Zener diode voltage regulator. It demonstrates practical knowledge of power electronics, PCB design, circuit analysis, and hardware implementation.
 
----  
+---   
 
 ## 📌 Project Overview    
   
