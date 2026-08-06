@@ -13,7 +13,7 @@ This project was developed as part of the Electronic Devices and Circuits course
 The objective was to design and fabricate a reliable regulated DC power supply capable of delivering a stable 12V DC output suitable for powering electronic circuits.        
 
 ---
-
+ 
 ## ✨ Features
 
 - ✔ Step-down AC transformer
