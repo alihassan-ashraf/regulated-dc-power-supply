@@ -25,7 +25,7 @@ The objective was to design and fabricate a reliable regulated DC power supply c
 - ✔ Hardware testing and validation  
 
 ---        
-
+ 
 ## ⚙ Components Used
 
 | Component | Purpose |
