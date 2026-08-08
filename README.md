@@ -14,7 +14,7 @@ The objective was to design and fabricate a reliable regulated DC power supply c
 
 ---
  
-## ✨ Features
+## ✨ Features  
 
 - ✔ Step-down AC transformer
 - ✔ Full-wave bridge rectifier
