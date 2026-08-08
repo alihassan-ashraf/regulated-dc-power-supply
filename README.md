@@ -26,7 +26,7 @@ The objective was to design and fabricate a reliable regulated DC power supply c
 
 ---        
  
-## ⚙ Components Used
+## ⚙ Components Used  
 
 | Component | Purpose |
 |-----------|----------|
